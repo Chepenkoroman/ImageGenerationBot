@@ -1,5 +1,8 @@
 # ImageGenerationBot
-The repository of chatbot that generates an image from user's text description using Stable Diffusion. In this project was focused on developing a simple bot for creating new pictures by a neural network based on a user's text description.
+The project of chatbot that generates an image from user's text description.
+This repository is an example of the creation the chatbot that generates an image from user's text. It uses Stable Diffusion, an open source SOTA model for text to image generation from Stability AI. 
+I created the telegram bot using the module which is called python-telegram-bot. 
+In this project I was focused on developing a simple bot for creating new pictures by a neural network based on a user's text description.
 
 
 
